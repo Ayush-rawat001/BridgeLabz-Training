@@ -70,3 +70,5 @@ static void Main Keyword:
 Understood that Main is the entry point of a C# program and the role of static and void.
 
 Implemented a basic C# program to understand type conversion between different data types.
+
+Assignments Completed: Successfully completed 28 coding questions covering various C# concepts.
