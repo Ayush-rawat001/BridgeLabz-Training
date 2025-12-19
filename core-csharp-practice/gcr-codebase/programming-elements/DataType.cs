@@ -4,7 +4,7 @@ using System;
 
 class DataType
 { static void Main(){
-/*Console.ReadLine();
+Console.ReadLine();
 int i= int.Parse(Console.ReadLine());
 double d= double.Parse(Console.ReadLine());
 char c= char.Parse(Console.ReadLine());
@@ -14,5 +14,5 @@ Console.WriteLine("Integer " + i);
 Console.WriteLine("Double " + d);
 Console.WriteLine("Character " + c);
 Console.WriteLine("String " + s);
-Console.WriteLine("Boolean " + b);*/
+Console.WriteLine("Boolean " + b);
 }}
