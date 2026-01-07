@@ -52,20 +52,56 @@ namespace EmployeeWage.Employee
 
     Console.WriteLine();
        }
-        public void ListEmployees()
+
+        public void CheckDailyWage()
         {
-            Console.WriteLine("---- Employee List ----");
+            Console.WriteLine("---- Daily Wage ----");
             if (count == 0)
             {
-                Console.WriteLine("No data available!\n");
+                Console.WriteLine("No employees!\n");
                 return;
             }
 
+            Random random = new Random();
+            int wagePerHour = 20;
+            int fullDayHour = 8;
+
             for (int i = 0; i < count; i++)
             {
-                Console.WriteLine(staff[i]);
+                int attendance = random.Next(0, 2);
+                int dailyWage = 0;
+
+                switch (attendance)
+                {
+                    case 1:
+                        dailyWage = wagePerHour * fullDayHour;
+                        Console.WriteLine(staff[i].GetName() + " → Present | Earned Today");
+                        break;
+                    case 0:
+                        Console.WriteLine(staff[i].GetName() + " → Absent | No Pay");
+                        break;
+                }
+
+                if (attendance == 1)
+                {
+                    Console.WriteLine("Calculated Wage: ₹" + dailyWage + "\n");
+                }
             }
-            Console.WriteLine();
         }
+        // public void ListEmployees()
+        // {
+        //     Console.WriteLine("---- Employee List ----");
+        //     if (count == 0)
+        //     {
+        //         Console.WriteLine("No data available!\n");
+        //         return;
+        //     }
+
+        //     for (int i = 0; i < count; i++)
+        //     {
+        //         Console.WriteLine(staff[i]);
+        //     }
+        //     Console.WriteLine();
+        // }
     }
 }

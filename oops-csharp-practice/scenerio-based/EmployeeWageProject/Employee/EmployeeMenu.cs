@@ -19,7 +19,7 @@ namespace EmployeeWage.Employee
                 Console.WriteLine("===== Cafeteria Employee Wage Panel =====");
                 Console.WriteLine("1. Add Employee");
                 Console.WriteLine("2. Check Attendance");
-                Console.WriteLine("3. Show All Employees");
+                Console.WriteLine("3. check daily wage");
                 Console.WriteLine("4. Close App");
                 Console.Write("Enter option: ");
 
@@ -44,7 +44,7 @@ namespace EmployeeWage.Employee
                 }
                 else if (choice == 3)
                 {
-                    utilObj.ListEmployees();
+                    utilObj.CheckDailyWage();
                 }
                 else if (choice == 4)
                 {
