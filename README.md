@@ -72,3 +72,93 @@ Understood that Main is the entry point of a C# program and the role of static a
 Implemented a basic C# program to understand type conversion between different data types.
 
 Assignments Completed: Successfully completed 28 coding questions covering various C# concepts.
+
+📅 Date: 20 December 2025
+
+🧠 Technical Concepts
+
+Access Modifier in c# (private, public, internal, protected, private protected, protected internal)
+Memory in c# (Stack, Heap)
+💻 C# Problem Solving
+
+Solving the questions on Access Modifier and push it to git
+📅 Date: 21 December 2025 (Sunday)
+
+🧠 Technical Concepts
+
+Revise the c# concept
+💻 C# Problem Solving
+
+Solving the LeetCode question no 9 "Palindrome"
+📅 Date: 22 December 2025 🧠 Technical Concepts
+
+Control flow
+loops(for, while, do-while and for each loop)
+if,else and else-if
+switch case
+💻 C# Problem Solving
+
+solve questions based on control flow in csharp-control-flow
+18 level1 problems,
+12 level2 problems
+6 level3 problems and push to git.
+📅 Date: 23 December 2025 🧠 Technical Concepts
+
+C# Arrays (intiallization of array ,modification)
+One-Dimensional Array
+Two – Dimensional Array (2D-Array)
+Environment.Exit() Method (This is use to terminate the current program)
+💻 C# Problem Solving
+
+Solve 10 problems on array and push to level1 of csharp-arrays
+📅 Date: 24 December 2025 🧠 Technical Concepts
+
+User-Defined Methods
+Using Methods Multiple Times
+Making Methods More Dynamic
+Recursive Methods
+Static Methods in C#
+.NET Standard Library Methods
+System.Math Class in C#
+💻 C# Problem Solving
+
+solve 10 problems on array and push to level2 of csharp-arrays
+solve 12 problems on methods in level1 of csharp-methods.
+📅 Date: 25 December 2025 (Holiday) 🧠 Technical Concepts
+
+Revise all the concepts
+💻 C# Problem Solving
+
+solve 12 question methods and push to level2 of csharp-methods.
+solve 13 question on methods and push to level3 of csharp-methods.
+📅 Date: 26 December 2025 🧠 Technical Concepts
+
+C# Strings,
+Create Strings,
+Use of "\" Escape Sequence,
+Take String Input,
+String Arrays,
+String as Method Parameters,
+String Class Built-In Methods,
+ASCII Character Codes,
+C# Exceptions,
+C# Exception Hierarchy,
+C# Exception Types,
+System.Exception or Unchecked Exceptions,
+Checked Exceptions.
+💻 C# Problem Solving
+
+solve scenario based question Named Snake and Ladder
+solve 11 questions on string in csharp-strings
+📅 Date: 27 December 2025 (Holiday) 🧠 Technical Concepts
+
+revise concept about strings
+💻 C# Problem Solving
+
+solve 12 questions on string in extra-csharp-strings.
+📅 Date: 28 December 2025 (Holiday) 🧠 Technical Concepts revise all previous concepts
+
+💻 C# Problem Solving
+
+solve 13 problems in extra-csharp-built-in
+

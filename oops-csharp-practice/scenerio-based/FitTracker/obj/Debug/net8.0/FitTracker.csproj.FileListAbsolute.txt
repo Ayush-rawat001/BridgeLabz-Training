@@ -1,0 +1,14 @@
+D:\bridgelabz\FitTracker\FitTracker\bin\Debug\net8.0\FitTracker.exe
+D:\bridgelabz\FitTracker\FitTracker\bin\Debug\net8.0\FitTracker.deps.json
+D:\bridgelabz\FitTracker\FitTracker\bin\Debug\net8.0\FitTracker.runtimeconfig.json
+D:\bridgelabz\FitTracker\FitTracker\bin\Debug\net8.0\FitTracker.dll
+D:\bridgelabz\FitTracker\FitTracker\bin\Debug\net8.0\FitTracker.pdb
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.AssemblyInfoInputs.cache
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.AssemblyInfo.cs
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.csproj.CoreCompileInputs.cache
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.dll
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\refint\FitTracker.dll
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.pdb
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\FitTracker.genruntimeconfig.cache
+D:\bridgelabz\FitTracker\FitTracker\obj\Debug\net8.0\ref\FitTracker.dll
