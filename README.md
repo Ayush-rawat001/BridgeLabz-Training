@@ -73,92 +73,142 @@ Implemented a basic C# program to understand type conversion between different d
 
 Assignments Completed: Successfully completed 28 coding questions covering various C# concepts.
 
-📅 Date: 20 December 2025
+# 📘 C# Learning & Problem-Solving Journey
 
-🧠 Technical Concepts
+This repository tracks my structured progress in C#, focusing on core language concepts and hands-on coding challenges.  
+Each day includes **concept building**, **revision**, and **real coding practice**, followed by pushing solutions to GitHub.
 
-Access Modifier in c# (private, public, internal, protected, private protected, protected internal)
-Memory in c# (Stack, Heap)
-💻 C# Problem Solving
+---
 
-Solving the questions on Access Modifier and push it to git
-📅 Date: 21 December 2025 (Sunday)
+## 🗓️ Progress Timeline
 
-🧠 Technical Concepts
+### 📅 20 December 2025
+**Technical Focus**
+- Understanding C# access levels: `private`, `public`, `internal`, `protected`, `private protected`, `protected internal`
+- How C# manages memory internally (Stack vs Heap)
 
-Revise the c# concept
-💻 C# Problem Solving
+**Hands-On Tasks**
+- Practice questions on access modifiers
+- Push solutions to GitHub
 
-Solving the LeetCode question no 9 "Palindrome"
-📅 Date: 22 December 2025 🧠 Technical Concepts
+---
 
-Control flow
-loops(for, while, do-while and for each loop)
-if,else and else-if
-switch case
-💻 C# Problem Solving
+### 📅 21 December 2025 (Weekend – Sunday)
+**Daily Plan**
+- Quick concept recap
+- Solve LeetCode Problem #9: *Palindrome Number*
+- Implement logic and commit to GitHub
 
-solve questions based on control flow in csharp-control-flow
-18 level1 problems,
-12 level2 problems
-6 level3 problems and push to git.
-📅 Date: 23 December 2025 🧠 Technical Concepts
+---
 
-C# Arrays (intiallization of array ,modification)
-One-Dimensional Array
-Two – Dimensional Array (2D-Array)
-Environment.Exit() Method (This is use to terminate the current program)
-💻 C# Problem Solving
+### 📅 22 December 2025
+**Concept Exploration**
+- Program decision flow: `if-else`, `else-if`, `switch`
+- Looping techniques: `for`, `while`, `do-while`, `foreach`
 
-Solve 10 problems on array and push to level1 of csharp-arrays
-📅 Date: 24 December 2025 🧠 Technical Concepts
+**Problem Practice**
+- 18 Beginner-level challenges
+- 12 Intermediate-level challenges
+- 6 Advanced-level challenges
+- Commit and push all implementations
 
-User-Defined Methods
-Using Methods Multiple Times
-Making Methods More Dynamic
-Recursive Methods
-Static Methods in C#
-.NET Standard Library Methods
-System.Math Class in C#
-💻 C# Problem Solving
+---
 
-solve 10 problems on array and push to level2 of csharp-arrays
-solve 12 problems on methods in level1 of csharp-methods.
-📅 Date: 25 December 2025 (Holiday) 🧠 Technical Concepts
+### 📅 23 December 2025
+**Topics Covered**
+- Array creation, updating values, and indexing
+- Single-row arrays
+- Grid-based 2D arrays
+- Using `Environment.Exit()` to stop execution instantly
 
-Revise all the concepts
-💻 C# Problem Solving
+**Coding Tasks**
+- 10 array problems → save under *Level 1 of csharp-arrays*
+- Push to GitHub
 
-solve 12 question methods and push to level2 of csharp-methods.
-solve 13 question on methods and push to level3 of csharp-methods.
-📅 Date: 26 December 2025 🧠 Technical Concepts
+---
 
-C# Strings,
-Create Strings,
-Use of "\" Escape Sequence,
-Take String Input,
-String Arrays,
-String as Method Parameters,
-String Class Built-In Methods,
-ASCII Character Codes,
-C# Exceptions,
-C# Exception Hierarchy,
-C# Exception Types,
-System.Exception or Unchecked Exceptions,
-Checked Exceptions.
-💻 C# Problem Solving
+### 📅 24 December 2025
+**Concept Set**
+- Custom method creation
+- Making methods more flexible using parameters
+- Recursive calls and base conditions
+- Static utility methods
+- Built-in helpers like `System.Math`
 
-solve scenario based question Named Snake and Ladder
-solve 11 questions on string in csharp-strings
-📅 Date: 27 December 2025 (Holiday) 🧠 Technical Concepts
+**Coding Practice**
+- 10 array problems → add to *Level 2 of csharp-arrays*
+- 12 method-based problems → *Level 1 of csharp-methods*
+- Commit and push all
 
-revise concept about strings
-💻 C# Problem Solving
+---
 
-solve 12 questions on string in extra-csharp-strings.
-📅 Date: 28 December 2025 (Holiday) 🧠 Technical Concepts revise all previous concepts
+### 📅 25 December 2025 
+**Revision Day**
+- Refresh all previously learned concepts
 
-💻 C# Problem Solving
+**Challenge Goals**
+- 12 method problems → push to *Level 2 of csharp-methods*
+- 13 method problems → push to *Level 3 of csharp-methods*
+- Push all to GitHub
 
-solve 13 problems in extra-csharp-built-in
+---
 
+### 📅 26 December 2025
+**Learning Topics**
+- String handling and input
+- Using escape characters (`\"`, `\n`, `\t`)
+- Passing strings into methods
+- String collections and arrays
+- Built-in string functions
+- ASCII values and character codes
+- Exception basics and categories
+
+**Projects & Problems**
+- Implement a *Snake and Ladder* game (scenario-based)
+- 11 string problems → save to *csharp-strings*
+- Push progress to GitHub
+
+---
+
+### 📅 27 December 2025
+**Revision Focus**
+- Strengthen understanding of string operations
+
+**Practice Target**
+- 12 extra string problems → push to *extra-csharp-strings*
+- Commit and push
+
+---
+
+### 📅 28 December 2025 
+**Revision Day**
+- Go through all previous topics briefly
+
+**Practice Goals**
+- 13 problems on built-in C# helpers → push to *extra-csharp-built-in*
+- Commit and push all solutions
+
+---
+
+## 🚀 Learning Approach
+- **Concept first, code next**
+- Each feature is practiced via real problems
+- All working code is committed and version-controlled
+- Goal is to build both understanding + implementation strength
+
+---
+
+## 🧩 Key Areas Practiced
+- 🔐 Access Modifiers
+- 🧠 Stack vs Heap Memory
+- 🔁 Control Flow & Loops
+- 📊 Arrays (1D & 2D)
+- 🛠️ User-Defined & Recursive Methods
+- 🔢 System Library & Math Helpers
+- 📝 Strings & ASCII
+- ⚠️ Exception Types & Handling
+- 🎮 Scenario-based Mini Projects
+
+---
+
+> 💡 This README reflects a summarized but reorganized version of my daily learning path to keep progress visible, structured, and version-controlled.
