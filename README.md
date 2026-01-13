@@ -211,4 +211,275 @@ Each day includes **concept building**, **revision**, and **real coding practice
 
 ---
 
-> 💡 This README reflects a summarized but reorganized version of my daily learning path to keep progress visible, structured, and version-controlled.
+## 📅 29 December 2025
+
+### 🧠 Core Concepts
+
+* Procedural Programming vs Object-Oriented Programming
+* Class and Object fundamentals
+* Introduction to the four pillars of OOPS
+
+### 💻 Problem Solving (C#)
+
+* Paragraph Analyzer
+* Sentence Formatter
+
+---
+
+## 📅 30 December 2025
+
+### 🧠 Core Concepts
+
+* Constructors in C#
+* Instance Variables vs Class (Static) Variables
+* Access Modifiers and their usage
+
+### 💻 Problem Solving (Scenario-Based)
+
+* Student Test Score System
+* Library Management System
+* Temperature Analyzer
+* Edu Quiz Application
+
+---
+
+## 📅 31 December 2025
+
+### 🧠 Core Concepts
+
+* `this` keyword
+* `static` keyword
+* `sealed` keyword
+* `is` operator
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+* Class & Object practice problems (3)
+
+### 📂 OOPS Practice Files
+
+* Book.cs
+* Circle.cs
+* Employee.cs
+* Bank Account Application
+* Math Operations Program
+
+---
+
+## 📅 1 January 2025
+
+### 🧠 Core Concepts
+
+* Difference between Classes and Objects
+* Class Diagrams
+* Object Diagrams
+* Sequence Diagrams
+
+### 💻 Problem Solving (OOPS-Based)
+
+* Freelancer Management Problem
+* Cafeteria Menu System
+
+---
+
+## 📅 2 January 2025
+
+### 🧠 Core Concepts
+
+* Inheritance in C#
+* Single-Level, Multilevel, and Hierarchical Inheritance
+* Key features of Inheritance
+* Method Overriding
+* Constructor behavior in Inheritance
+* Polymorphism with Inheritance
+* Access Modifiers and Inheritance
+
+### 💻 Problem Solving
+
+* Distance Tracker using OOPS
+
+---
+
+## 📅 3 January 2025
+
+### 🧠 Core Concepts
+
+* Inheritance
+* Abstraction
+* Polymorphism
+* Encapsulation
+
+### 💻 Problem Solving
+
+* Lucky Draw System (Scenario-Based)
+
+---
+
+## 📅 4 January 2025 (Sunday)
+
+### 🧠 Revision Day
+
+* Complete revision of OOPS concepts
+
+### 💻 Practice Problems
+
+* Keyword and Constructor-based problems
+* Inheritance-based problems (3)
+* OOPS Diagrams
+
+---
+
+## 📅 5 January 2025
+
+*(Leave taken due to cold and fever)*
+
+### 🧠 Concepts (Self-Study)
+
+* Encapsulation
+* Polymorphism
+* Interfaces
+* Abstract Classes
+
+### 💻 Problem Solving
+
+* Not Applicable
+
+---
+
+## 📅 6 January 2025
+
+### 🧠 Core Concepts
+
+* Revision of all OOPS pillars
+* `base`, `virtual`, and `override` keywords
+* Review of previous topics
+
+### 💻 Problem Solving (Scenario-Based)
+
+* Vehicle Rental Application
+* Bird Sanctuary Management System
+* Call Log Manager
+
+---
+
+## 📅 7 January 2025
+
+### 🧠 Core Concepts
+
+* Singly Linked List
+* Doubly Linked List
+* Circular Linked List
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+* Employee Wage Project (UC1 – UC6)
+* E-commerce Platform Simulation
+
+---
+
+## 📅 8 January 2025
+
+### 🧠 Core Concepts
+
+* Stack
+* Queue
+* HashMap and Hashing Functions
+
+### 💻 Problem Solving
+
+* OOPS-based scenarios (3)
+* Linked List problems (4)
+
+---
+
+## 📅 9 January 2025
+
+### 🧠 Core Concepts
+
+* Sorting Algorithms Overview
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+
+### 💻 Problem Solving
+
+* Fitness Tracker (OOPS Scenario)
+* ATM Dispenser (DSA Scenario)
+* Stack, Queue, and HashMap problems (8)
+
+---
+
+## 📅 10 January 2025
+
+### 🧠 Revision Day
+
+* Complete revision of OOPS concepts
+
+### 💻 Problem Solving
+
+* Practice exercises based on revised topics
+
+---
+
+## 📅 11 January 2025
+
+### 🧠 Core Concepts
+
+* Revision of Core Java concepts
+* OOPS recap
+
+### 💻 Sorting Practice
+
+* Bubble Sort
+* Counting Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Selection Sort
+
+---
+
+## 📅 12 January 2025
+
+### 🧠 Core Concepts
+
+* StringBuilder
+* StringBuffer
+* FileReader
+* InputStreamReader
+* Linear Search
+* Binary Search
+
+### 💻 Problem Solving (Scenario-Based)
+
+* Metal Rod Cutting System
+* Furniture Manufacturing Process
+* Loan Approval Automation
+
+---
+
+## 📅 13 January 2025
+
+### 🧠 Core Concepts
+
+* Runtime Analysis
+* Big-O Notation
+* Time Complexity
+* Space Complexity
+* Best, Worst, and Average Case Analysis
+* Code Optimization Guidelines in C#
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+* Problems on Linear Search, Binary Search, and StringBuilder
+
+---
+
+## ✅ Summary
+
+This learning log reflects consistent practice in **C# OOPS**, **DSA**, and **real-world scenario-based problem solving**, with regular revision to strengthen conceptual clarity and coding confidence.
+
