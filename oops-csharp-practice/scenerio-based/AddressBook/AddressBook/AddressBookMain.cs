@@ -8,8 +8,8 @@ namespace AddressBook.AddressBook
     {
         static void Main()
         {
-            Console.WriteLine("---------Welcome to Address Book Program---------\n");
-            AddressBookMenu addressBookMenu = new AddressBookMenu();
+            Console.WriteLine("---------Welcome to Address Book Program---------\n"); 
+            AddressBookMenu addressBookMenu = new AddressBookMenu(); // AddressBookMenu object to execute Run method;
             addressBookMenu.Run();
 
         }

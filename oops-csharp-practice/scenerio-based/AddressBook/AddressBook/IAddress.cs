@@ -4,8 +4,8 @@ using System.Text;
 
 namespace AddressBook.AddressBook
 {
-    internal interface IAddress
+    internal interface IAddress // interface
     {
-        public void AddAddress();
+        public void AddAddress(); //abstract method
     }
 }
