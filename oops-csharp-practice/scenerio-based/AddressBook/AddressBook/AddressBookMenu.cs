@@ -7,21 +7,30 @@ namespace AddressBook.AddressBook
 {
     internal class AddressBookMenu
     {
-        public void Run() //method to show the Menu
+        public void Run()
         {
-            AddressUtility addressUtility = new AddressUtility(); // object of utility to call the method
+            AddressUtility addressUtility = new AddressUtility();
             while(true)
             {
-                Console.WriteLine("Press 1 to Add Address book");
-                Console.WriteLine("Press 2 to Exit");
+                Console.WriteLine("Press 1 to Add Contact in Address Book");
+                Console.WriteLine("Press 2 to Edit Contact in Address book");
+                Console.WriteLine("Press 2 to Display Contact in Address book");
+                Console.WriteLine("Press 4 to Exit");
+
                 int option = int.Parse(Console.ReadLine());
                 switch(option)
                 {
                     case 1:
-                        addressUtility.AddAddress();
+                        addressUtility.AddContact();
                         break;
                     case 2:
-                        return;
+                        addressUtility.EditContact();
+                        break;
+                    case 3:
+                        addressUtility.DisplayInfo();
+                        break;
+                    case 4:
+                        break;
                 }
             }
             
