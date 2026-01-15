@@ -122,7 +122,7 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - Using `Environment.Exit()` to stop execution instantly
 
 **Coding Tasks**
-- 10 array problems → save under *Level 1 of csharp-arrays*
+   array problems → save under *Level 1 of csharp-arrays*
 - Push to GitHub
 
 ---
@@ -133,11 +133,11 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - Making methods more flexible using parameters
 - Recursive calls and base conditions
 - Static utility methods
-- Built-in helpers like `System.Math`
+
 
 **Coding Practice**
-- 10 array problems → add to *Level 2 of csharp-arrays*
-- 12 method-based problems → *Level 1 of csharp-methods*
+-  array problems → add to *Level 2 of csharp-arrays*
+-  method-based problems → *Level 1 of csharp-methods*
 - Commit and push all
 
 ---
@@ -147,8 +147,8 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - Refresh all previously learned concepts
 
 **Challenge Goals**
-- 12 method problems → push to *Level 2 of csharp-methods*
-- 13 method problems → push to *Level 3 of csharp-methods*
+-  method problems → push to *Level 2 of csharp-methods*
+-  method problems → push to *Level 3 of csharp-methods*
 - Push all to GitHub
 
 ---
@@ -175,7 +175,7 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - Strengthen understanding of string operations
 
 **Practice Target**
-- 12 extra string problems → push to *extra-csharp-strings*
+-  extra string problems → push to *extra-csharp-strings*
 - Commit and push
 
 ---
@@ -185,7 +185,7 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - Go through all previous topics briefly
 
 **Practice Goals**
-- 13 problems on built-in C# helpers → push to *extra-csharp-built-in*
+-  problems on built-in C# helpers → push to *extra-csharp-built-in*
 - Commit and push all solutions
 
 ---
@@ -203,10 +203,6 @@ Each day includes **concept building**, **revision**, and **real coding practice
 - 🧠 Stack vs Heap Memory
 - 🔁 Control Flow & Loops
 - 📊 Arrays (1D & 2D)
-- 🛠️ User-Defined & Recursive Methods
-- 🔢 System Library & Math Helpers
-- 📝 Strings & ASCII
-- ⚠️ Exception Types & Handling
 - 🎮 Scenario-based Mini Projects
 
 ---
@@ -341,11 +337,6 @@ Each day includes **concept building**, **revision**, and **real coding practice
 * Interfaces
 * Abstract Classes
 
-### 💻 Problem Solving
-
-* Not Applicable
-
----
 
 ## 📅 6 January 2025
 
@@ -373,11 +364,9 @@ Each day includes **concept building**, **revision**, and **real coding practice
 
 ### 💻 Problem Solving
 
-* Scenario-based problems (2)
+* Scenario-based problems 
 * Employee Wage Project (UC1 – UC6)
-* E-commerce Platform Simulation
 
----
 
 ## 📅 8 January 2025
 
@@ -385,14 +374,13 @@ Each day includes **concept building**, **revision**, and **real coding practice
 
 * Stack
 * Queue
-* HashMap and Hashing Functions
+
 
 ### 💻 Problem Solving
 
-* OOPS-based scenarios (3)
-* Linked List problems (4)
+* OOPS-based scenarios 
+* Linked List problems 
 
----
 
 ## 📅 9 January 2025
 
@@ -401,28 +389,14 @@ Each day includes **concept building**, **revision**, and **real coding practice
 * Sorting Algorithms Overview
 * Bubble Sort
 * Insertion Sort
-* Merge Sort
-* Quick Sort
 
-### 💻 Problem Solving
+## 💻 Problem Solving
 
 * Fitness Tracker (OOPS Scenario)
 * ATM Dispenser (DSA Scenario)
-* Stack, Queue, and HashMap problems (8)
+* Stack, Queue
 
----
 
-## 📅 10 January 2025
-
-### 🧠 Revision Day
-
-* Complete revision of OOPS concepts
-
-### 💻 Problem Solving
-
-* Practice exercises based on revised topics
-
----
 
 ## 📅 11 January 2025
 
@@ -436,8 +410,7 @@ Each day includes **concept building**, **revision**, and **real coding practice
 * Bubble Sort
 * Counting Sort
 * Insertion Sort
-* Merge Sort
-* Quick Sort
+
 * Selection Sort
 
 ---
@@ -447,17 +420,10 @@ Each day includes **concept building**, **revision**, and **real coding practice
 ### 🧠 Core Concepts
 
 * StringBuilder
-* StringBuffer
-* FileReader
-* InputStreamReader
+*
 * Linear Search
 * Binary Search
 
-### 💻 Problem Solving (Scenario-Based)
-
-* Metal Rod Cutting System
-* Furniture Manufacturing Process
-* Loan Approval Automation
 
 ---
 
