@@ -9,5 +9,8 @@ namespace AddressBook.AddressBook
         public void AddContact();
         public void EditContact();
         public void DisplayInfo();
+
+        public void DeleteContact();
+        
     }
 }

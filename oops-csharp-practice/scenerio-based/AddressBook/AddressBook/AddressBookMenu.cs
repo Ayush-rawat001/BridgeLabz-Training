@@ -14,8 +14,9 @@ namespace AddressBook.AddressBook
             {
                 Console.WriteLine("Press 1 to Add Contact in Address Book");
                 Console.WriteLine("Press 2 to Edit Contact in Address book");
-                Console.WriteLine("Press 2 to Display Contact in Address book");
-                Console.WriteLine("Press 4 to Exit");
+                Console.WriteLine("Press 3 to Display Contact in Address book");
+                Console.WriteLine("Press 4 to Delete Contact in Address book");
+                Console.WriteLine("Press 5 to Exit");
 
                 int option = int.Parse(Console.ReadLine());
                 switch(option)
@@ -30,7 +31,10 @@ namespace AddressBook.AddressBook
                         addressUtility.DisplayInfo();
                         break;
                     case 4:
+                        addressUtility.DeleteContact();
                         break;
+                    case 5:
+                        return;
                 }
             }
             

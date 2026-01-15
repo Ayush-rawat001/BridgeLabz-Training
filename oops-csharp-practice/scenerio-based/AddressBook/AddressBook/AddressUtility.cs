@@ -11,7 +11,7 @@ namespace AddressBook.AddressBook
 
         public void AddContact()
         {
-            Console.WriteLine("\n--- Enter Contact Details ---");
+            Console.WriteLine("--- Enter Contact Details ---\n");
 
             Console.Write("First Name: ");
             string firstName = Console.ReadLine();
@@ -148,8 +148,69 @@ namespace AddressBook.AddressBook
                 Console.WriteLine($"Full Name : {Contacts[i].FirstName} {Contacts[i].LastName} " +
                     $"| Email: {Contacts[i].Email}| phone number: {Contacts[i].PhoneNumber} " +
                     $"| city: {Contacts[i].City} | state: {Contacts[i].State} | country: {Contacts[i].Country} " +
-                    $"| zipcode: {Contacts[i].ZipCode}");
+                    $"| zipcode: {Contacts[i].ZipCode}\n");
             }
         }
+
+        //delete contact
+        public void DeleteContact() 
+        {
+            if (count == 0)
+            {
+                Console.WriteLine("No contacts !");
+                return;
+            }
+
+           
+
+            Console.WriteLine("Which Contact you want to delete");
+
+            Console.Write("Enter First Name :");
+
+            string first = Console.ReadLine();
+
+            Console.Write("Enter Last Name :");
+
+            string last = Console.ReadLine();
+
+            if (count == 1)
+            {
+                Contacts[count - 1] = null;
+                return;
+            }
+
+            int idx = -1;
+
+            for (int i = 0; i < count; i++)
+            {
+                if (Contacts[i].FirstName == first && Contacts[i].LastName == last)
+                {
+                    idx = i;
+                    break;
+                }
+
+            }
+            if (idx == -1)
+            {
+                Console.WriteLine("No Contact found");
+                return;
+            }
+
+            for (int i = idx; i < count-1; i++)
+            {
+                Contacts[i] = Contacts[i + 1];
+            }
+
+            Contacts[count - 1] = null; 
+
+            count--;
+
+            Console.WriteLine("contact deleted successfully");
+
+
+        }
+      
+
+
     }
 }
