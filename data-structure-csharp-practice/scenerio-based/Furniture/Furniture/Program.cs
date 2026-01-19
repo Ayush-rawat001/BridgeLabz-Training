@@ -16,9 +16,9 @@ namespace Furniture.Furniture
             while (true)
             {
                 Console.WriteLine("\n==== CUSTOM FURNITURE MANUFACTURING ====");
-                Console.WriteLine("1. Scenario A – Best cut for 12 ft rod");
-                Console.WriteLine("2. Scenario B – Apply waste constraint");
-                Console.WriteLine("3. Scenario C – Max revenue with min waste");
+                Console.WriteLine("1. Scenario A  Best cut for 12 ft rod");
+                Console.WriteLine("2. Scenario B  Apply waste constraint");
+                Console.WriteLine("3. Scenario C  Max revenue with min waste");
                 Console.WriteLine("4. Exit");
                 Console.Write("Enter choice: ");
 
