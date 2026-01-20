@@ -485,6 +485,9 @@ Each day includes **concept building**, **revision**, and **real coding practice
 ### 🧠 Core Concepts
 
 * Generics
+* Generics class
+* generics method
+  
 
 ### 💻 Problem Solving
 
