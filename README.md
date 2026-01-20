@@ -444,8 +444,59 @@ Each day includes **concept building**, **revision**, and **real coding practice
 * Problems on Linear Search, Binary Search, and StringBuilder
 
 ---
+## 📅 14 January 2025
 
-## ✅ Summary
+### 💻 Problem Solving
 
-This learning log reflects consistent practice in **C# OOPS**, **DSA**, and **real-world scenario-based problem solving**, with regular revision to strengthen conceptual clarity and coding confidence.
+* Scenario-based problems(Address Book Problem)
+  
+---
+
+ ## 📅 15 January 2025
+
+### 💻 Problem Solving
+
+* Scenario-based problems (1)
+  
+---
+
+* ## 📅 16 January 2025
+
+### 🧠 Core Concepts
+
+* Revision of DSA Concepts,OOPS and Core c#
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+
+---
+
+* ## 📅 17 January 2025
+
+ ### 💻 Problem Solving
+
+* Scenario-based problems (2)
+
+---
+
+* ## 📅 19 January 2025
+
+### 🧠 Core Concepts
+
+* Generics
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+
+---
+
+
+
+
+ 
+
+
+
 
