@@ -1,0 +1,14 @@
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.AssemblyInfoInputs.cache
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.AssemblyInfo.cs
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.csproj.CoreCompileInputs.cache
+D:\bridgelabz\WareHouse\WareHouse\bin\Debug\net10.0\WareHouse.exe
+D:\bridgelabz\WareHouse\WareHouse\bin\Debug\net10.0\WareHouse.deps.json
+D:\bridgelabz\WareHouse\WareHouse\bin\Debug\net10.0\WareHouse.runtimeconfig.json
+D:\bridgelabz\WareHouse\WareHouse\bin\Debug\net10.0\WareHouse.dll
+D:\bridgelabz\WareHouse\WareHouse\bin\Debug\net10.0\WareHouse.pdb
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.dll
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\refint\WareHouse.dll
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.pdb
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\WareHouse.genruntimeconfig.cache
+D:\bridgelabz\WareHouse\WareHouse\obj\Debug\net10.0\ref\WareHouse.dll
