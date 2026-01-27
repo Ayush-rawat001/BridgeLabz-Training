@@ -495,6 +495,58 @@ Each day includes **concept building**, **revision**, and **real coding practice
 
 ---
 
+ ## 📅 20 January 2025
+
+### 🧠 Core Concepts
+
+* Collections
+  ### 💻 Problem Solving
+
+* Scenario-based problems (2)
+
+---
+ ## 📅 21 January 2025
+
+### 🧠 Core Concepts
+
+* C# I/O Streams
+Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+Key Considerations
+Best Practices
+  
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+
+---
+ ## 📅 22 January 2025
+
+### 🧠 Core Concepts
+ Exceptions 
+ Types of Exceptions
+ Checked Exceptions,
+ Unchecked Exceptions
+ Custom Exceptions
+ Handling Exceptions 
+ try-catch blocks
+ try-catch-finally blocks
+ try-with-resources statement
+ throws clause
+ throw statement
+ Creating Custom Exceptions
+ Extending Exception Class
+ Defining Constructors
+  
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
 
 
 
