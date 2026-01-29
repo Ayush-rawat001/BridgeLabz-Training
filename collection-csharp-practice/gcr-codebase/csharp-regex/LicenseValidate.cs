@@ -12,11 +12,11 @@ class Program
 
         if (Regex.IsMatch(plate, pattern))
         {
-            Console.WriteLine("✅ Valid License Plate Number");
+            Console.WriteLine(" Valid License Plate Number");
         }
         else
         {
-            Console.WriteLine("❌ Invalid License Plate Number");
+            Console.WriteLine(" Invalid License Plate Number");
         }
     }
 }

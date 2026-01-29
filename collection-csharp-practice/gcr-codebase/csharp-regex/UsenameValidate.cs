@@ -12,11 +12,11 @@ class Program
 
         if (Regex.IsMatch(username, pattern))
         {
-            Console.WriteLine("✅ Valid Username");
+            Console.WriteLine(" Valid Username");
         }
         else
         {
-            Console.WriteLine("❌ Invalid Username");
+            Console.WriteLine(" Invalid Username");
         }
     }
 }
