@@ -547,6 +547,65 @@ Best Practices
 ### 💻 Problem Solving
 
 * Scenario-based problems (2)
+---
+ ## 📅 23 January 2025
+
+### 🧠 Core Concepts
+ * Regex
+ * Annotations
+ * Reflection
+ --- 
+ ## 📅 27 January 2025
+
+### 🧠 Core Concepts
+ 
+  * MStesting
+
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+---
+ ## 📅 28 January 2025
+
+### 🧠 Core Concepts
+ * CSV Data Handling
+  
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+---
+ ## 📅 29 January 2025
+
+### 🧠 Core Concepts
+ * JSON data
+  
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+---
+ ## 📅 30 January 2025
+### 💻 Problem Solving
+
+* Scenario-based problems (2)
+  
+---
+ ## 📅 31 January 2025
+### 🧠 Core Concepts
+ * JSON Data
+---
+ ## 📅 2 Feb 2025
+
+### 🧠 Core Concepts
+ * Multi-Threading
+ * Design Principles
+  
+  ### 💻 Problem Solving
+
+* Scenario-based problems (1)
+---
+
+
+
 
 
 
