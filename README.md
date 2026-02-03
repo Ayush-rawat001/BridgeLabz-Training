@@ -528,15 +528,15 @@ Best Practices
  ## 📅 22 January 2025
 
 ### 🧠 Core Concepts
- Exceptions 
- Types of Exceptions
- Checked Exceptions,
- Unchecked Exceptions
- Custom Exceptions
- Handling Exceptions 
- try-catch blocks
- try-catch-finally blocks
- try-with-resources statement
+ * Exceptions 
+ * Types of Exceptions
+ * Checked Exceptions,
+ * Unchecked Exceptions
+ * Custom Exceptions
+ * Handling Exceptions 
+ * try-catch blocks
+ * try-catch-finally blocks
+
  throws clause
  throw statement
  Creating Custom Exceptions
