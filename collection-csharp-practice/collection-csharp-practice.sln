@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gcr-codebase", "gcr-codebase", "{E6A42168-9B69-3142-E48A-0E4828940C2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-collection", "csharp-collection", "{5DA7FB76-DD4E-8B9D-BF00-414412A2DA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem", "gcr-codebase\csharp-collection\BankingSystem\BankingSystem.csproj", "{1997F9D6-130B-8B41-039D-90D6687D7679}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-generics", "csharp-generics", "{6254F7DC-5457-44B9-9EB4-AF139C14CA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WareHouse", "gcr-codebase\csharp-generics\WareHouse\WareHouse.csproj", "{E71495A9-9173-7C3D-98A6-FBD24313BA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1997F9D6-130B-8B41-039D-90D6687D7679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1997F9D6-130B-8B41-039D-90D6687D7679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1997F9D6-130B-8B41-039D-90D6687D7679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1997F9D6-130B-8B41-039D-90D6687D7679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71495A9-9173-7C3D-98A6-FBD24313BA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71495A9-9173-7C3D-98A6-FBD24313BA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71495A9-9173-7C3D-98A6-FBD24313BA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71495A9-9173-7C3D-98A6-FBD24313BA85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5DA7FB76-DD4E-8B9D-BF00-414412A2DA8F} = {E6A42168-9B69-3142-E48A-0E4828940C2B}
+		{1997F9D6-130B-8B41-039D-90D6687D7679} = {5DA7FB76-DD4E-8B9D-BF00-414412A2DA8F}
+		{6254F7DC-5457-44B9-9EB4-AF139C14CA0A} = {E6A42168-9B69-3142-E48A-0E4828940C2B}
+		{E71495A9-9173-7C3D-98A6-FBD24313BA85} = {6254F7DC-5457-44B9-9EB4-AF139C14CA0A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117C381E-0FD4-4709-85D0-B4E5D71E212A}
+	EndGlobalSection
+EndGlobal
