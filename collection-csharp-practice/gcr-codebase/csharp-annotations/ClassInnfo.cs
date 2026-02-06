@@ -17,7 +17,7 @@ using System.Threading.Tasks;
             if (t == null) { Console.WriteLine("Type not found."); return; }
 
             Console.WriteLine($"\n--- Methods in {t.Name} ---");
-            foreach (var m in t.GetMethods()) Console.WriteLine(m.Name); a
+            foreach (var m in t.GetMethods()) Console.WriteLine(m.Name); 
 
             Console.WriteLine($"\n--- Fields in {t.Name} ---");
             foreach (var f in t.GetFields()) Console.WriteLine(f.Name);
