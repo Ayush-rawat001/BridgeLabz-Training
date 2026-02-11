@@ -604,7 +604,47 @@ Best Practices
 * Scenario-based problems (1)
 ---
 
+## 📅 3 Feb 2025
 
+### 💻 Problem Solving
+* Scenario-based problems (1)
+---
+## 📅 4 Feb 2025
+
+### 🧠 Core Concepts
+ * SQL and RDBMS concepts
+  
+---
+## 📅 5 Feb 2025
+
+### 🧠 Core Concepts
+ * MSSQL concepts
+  
+  ### 💻 Problem Solving
+
+* Scenario-based problems (1)
+---
+## 📅 6 Feb 2025
+
+### 🧠 Core Concepts
+ * Soft skills
+
+---
+## 📅 7 Feb 2025
+
+### 🧠 Core Concepts
+ *Revise  DBMS concepts
+  
+  ### 💻 Problem Solving
+
+* Scenario-based problems (1)
+---
+## 📅 9 Feb 2025
+
+### 💻 Problem Solving
+
+* Scenario-based problems (1)(Healthcare app)
+---
 
 
 
