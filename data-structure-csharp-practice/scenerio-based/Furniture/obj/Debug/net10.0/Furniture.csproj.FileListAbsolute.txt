@@ -1,0 +1,14 @@
+D:\bridgelabz\Furniture\Furniture\bin\Debug\net10.0\Furniture.exe
+D:\bridgelabz\Furniture\Furniture\bin\Debug\net10.0\Furniture.deps.json
+D:\bridgelabz\Furniture\Furniture\bin\Debug\net10.0\Furniture.runtimeconfig.json
+D:\bridgelabz\Furniture\Furniture\bin\Debug\net10.0\Furniture.dll
+D:\bridgelabz\Furniture\Furniture\bin\Debug\net10.0\Furniture.pdb
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.AssemblyInfoInputs.cache
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.AssemblyInfo.cs
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.dll
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\refint\Furniture.dll
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.pdb
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\Furniture.genruntimeconfig.cache
+D:\bridgelabz\Furniture\Furniture\obj\Debug\net10.0\ref\Furniture.dll

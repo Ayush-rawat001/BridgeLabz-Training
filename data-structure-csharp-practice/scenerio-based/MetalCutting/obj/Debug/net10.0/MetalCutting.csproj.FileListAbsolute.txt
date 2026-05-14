@@ -1,0 +1,14 @@
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.AssemblyInfoInputs.cache
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.AssemblyInfo.cs
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.csproj.CoreCompileInputs.cache
+D:\bridgelabz\MetalCutting\MetalCutting\bin\Debug\net10.0\MetalCutting.exe
+D:\bridgelabz\MetalCutting\MetalCutting\bin\Debug\net10.0\MetalCutting.deps.json
+D:\bridgelabz\MetalCutting\MetalCutting\bin\Debug\net10.0\MetalCutting.runtimeconfig.json
+D:\bridgelabz\MetalCutting\MetalCutting\bin\Debug\net10.0\MetalCutting.dll
+D:\bridgelabz\MetalCutting\MetalCutting\bin\Debug\net10.0\MetalCutting.pdb
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.dll
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\refint\MetalCutting.dll
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.pdb
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\MetalCutting.genruntimeconfig.cache
+D:\bridgelabz\MetalCutting\MetalCutting\obj\Debug\net10.0\ref\MetalCutting.dll
